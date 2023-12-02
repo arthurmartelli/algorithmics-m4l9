@@ -3,6 +3,8 @@ import window
 
 screen = window.init()
 backround_color = (255,255,255)
+
+# Game state variable
 GAME_STATE = {
     'running': True
 }
